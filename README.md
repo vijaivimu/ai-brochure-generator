@@ -18,3 +18,11 @@ An intelligent tool designed to scrape and navigate company websites, extract re
 3. **Brochure Generation:**
    - Outputs structured summaries ready for professional brochure design.
    - Formats the content in Markdown for easy editing and adaptation.
+
+
+## Technologies Used
+- **Python**: Core programming language.
+- **Jupyter Notebook**: Development environment.
+- **BeautifulSoup**: HTML parsing and content extraction.
+- **OpenAI GPT Models**: Summarization of website content.
+- **Conda**: Dependency and environment management.
