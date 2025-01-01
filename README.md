@@ -1,2 +1,20 @@
-# ai-brochure-generator
-AI-Powered Brochure Generator
+# AI-Powered Brochure Generator
+
+An intelligent tool designed to scrape and navigate company websites, extract relevant content, and generate professional brochures. This project combines the power of web scraping and AI-driven summarization to automate brochure creation, saving time and effort for businesses and marketers.
+
+---
+
+## Features
+
+1. **Web Scraping:**
+   - Fetches content from company websites using `requests` with proper headers.
+   - Processes HTML with `BeautifulSoup` to extract meaningful text.
+   - Filters out irrelevant elements like scripts, styles, and images.
+
+2. **Content Summarization:**
+   - Utilizes OpenAI's GPT models to summarize website content intelligently.
+   - Customizable system and user prompts for tailored outputs.
+
+3. **Brochure Generation:**
+   - Outputs structured summaries ready for professional brochure design.
+   - Formats the content in Markdown for easy editing and adaptation.
