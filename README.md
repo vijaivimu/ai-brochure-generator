@@ -37,8 +37,8 @@ An intelligent tool designed to scrape and navigate company websites, extract re
 
 ## Project Structure
 
-├── main_ollama.ipynb       # Notebook for using Ollama 3.2 locally
-├── main_openai.ipynb       # Notebook for using OpenAI GPT-4o Mini
-├── environment.yml         # Conda environment file for dependency setup
-├── .env                    # Stores OpenAI API key securely
-├── README.md               # Project documentation (this file)
+- main_ollama.ipynb       # Notebook for using Ollama 3.2 locally
+- main_openai.ipynb       # Notebook for using OpenAI GPT-4o Mini
+- environment.yml         # Conda environment file for dependency setup
+- .env                    # Stores OpenAI API key securely
+- README.md               # Project documentation (this file)
